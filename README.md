@@ -24,3 +24,5 @@
 1. تأكد من تثبيت المكتبات التالية:
    ```bash
    pip install transformers gradio
+## ✅ رابط Google Colab جاهز 
+[🌐 رابط إلى الكود](https://colab.research.google.com/drive/111Mb5g6V8hA-8bkXK4-Pj2TRHo6kpTPU#scrollTo=RuTEGPAe5G_h)
